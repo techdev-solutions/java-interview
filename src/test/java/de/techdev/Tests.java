@@ -7,8 +7,8 @@ import static org.junit.Assert.fail;
 public class Tests {
 
     @Test
-	public void alive() {
-		fail("dead!");
-	}
+    public void alive() {
+        fail("dead!");
+    }
 
 }
